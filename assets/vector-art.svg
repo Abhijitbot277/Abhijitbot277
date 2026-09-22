@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" role="img" aria-label="Abstract red vector technology artwork">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#ff3b30"/><stop offset="1" stop-color="#b91c1c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="260" rx="28" fill="#050505"/>
+<g fill="none" stroke="url(#g)" stroke-width="2" opacity=".8">
+ <path d="M40 190L180 70l130 95 120-115 145 125 140-105 145 115 150-130 130 110"/>
+ <path d="M75 45h210M880 215h230M420 35h120"/>
+</g>
+<g fill="#ff3b30" filter="url(#glow)">
+ <circle cx="180" cy="70" r="6"/><circle cx="310" cy="165" r="5"/><circle cx="430" cy="50" r="7"/><circle cx="575" cy="175" r="6"/><circle cx="715" cy="70" r="5"/><circle cx="860" cy="185" r="7"/><circle cx="1010" cy="55" r="5"/>
+</g>
+<g fill="none" stroke="#ff3b30" stroke-width="3">
+ <rect x="515" y="78" width="170" height="105" rx="18"/>
+ <path d="M545 112h110M545 140h75M545 158h45"/>
+ <path d="M500 105h-25v-20h-30M500 155h-25v20h-30M700 105h25v-20h30M700 155h25v20h30"/>
+</g>
+<g fill="#fff" opacity=".9" font-family="Arial, sans-serif"><text x="600" y="222" text-anchor="middle" font-size="15" letter-spacing="5">BUILD • CREATE • EXPLORE</text></g>
+</svg>

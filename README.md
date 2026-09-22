@@ -88,14 +88,7 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 
 ## GitHub Activity
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhijitbot277&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitbot277&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages"/>
-</p>
-
-<p align="center"><img src="https://streak-stats.demolab.com?user=Abhijitbot277&theme=tokyonight&hide_border=true" width="65%" alt="GitHub contribution streak"/></p>
-
-<p align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-3d.svg" width="100%" alt="3D floating animated GitHub activity dashboard"/></p>
 
 ## Current Focus
 

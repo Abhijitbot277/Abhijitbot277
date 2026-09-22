@@ -90,10 +90,6 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 
 
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/307072215?v=4" width="110" height="110" alt="Abhijit Singha profile photo" style="border-radius:50%;"/>
-</p>
-
 ## Current Focus
 
 - Building stronger programming fundamentals

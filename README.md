@@ -13,7 +13,9 @@
 
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/vector-art.svg" width="100%" alt="Red abstract vector technology artwork"/></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/atomic-profile-3d.svg" width="100%" alt="Animated atomic 3D GitHub profile artwork"/>
+</p>
 
 ## About Me
 
@@ -88,7 +90,9 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 
 ## GitHub Activity
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-3d.svg" width="100%" alt="Animated 3D GitHub activity dashboard"/>
+</p>
 
 ## Current Focus
 

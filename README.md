@@ -88,7 +88,13 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 
 ## GitHub Activity
 
-<p align="center"><img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-3d.svg" width="100%" alt="3D floating animated GitHub activity dashboard"/></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-3d.svg" width="100%" alt="3D floating animated GitHub activity dashboard"/>
+</p>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/307072215?v=4" width="110" height="110" alt="Abhijit Singha profile photo" style="border-radius:50%;"/>
+</p>
 
 ## Current Focus
 

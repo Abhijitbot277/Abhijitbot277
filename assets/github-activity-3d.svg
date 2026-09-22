@@ -33,5 +33,5 @@
  <circle cx="1130" cy="315" r="5"><animate attributeName="cy" values="315;285;315" dur="4s" repeatCount="indefinite"/></circle>
  <circle cx="720" cy="345" r="3"><animate attributeName="cy" values="345;325;345" dur="2.5s" repeatCount="indefinite"/></circle>
 </g>
-<text x="600" y="390" text-anchor="middle" fill="#777" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">FLOATING 3D • RED VECTOR UI</text>
+<g><circle cx="600" cy="245" r="42" fill="#0b0b0b" stroke="#ff3b30" stroke-width="3"/><clipPath id="avatarClip"><circle cx="600" cy="245" r="36"/></clipPath><image href="https://avatars.githubusercontent.com/u/307072215?v=4" x="564" y="209" width="72" height="72" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/><circle cx="600" cy="245" r="39" fill="none" stroke="#ff3b30" opacity=".35"><animate attributeName="r" values="39;48;39" dur="2.5s" repeatCount="indefinite"/><animate attributeName="opacity" values=".5;0;.5" dur="2.5s" repeatCount="indefinite"/></circle></g><text x="600" y="390" text-anchor="middle" fill="#777" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">FLOATING 3D • RED VECTOR UI</text>
 </svg>

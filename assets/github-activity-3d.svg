@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="3D floating GitHub activity dashboard">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070707"/><stop offset="1" stop-color="#160606"/></linearGradient>
+ <linearGradient id="edge"><stop stop-color="#ff3b30"/><stop offset="1" stop-color="#7f1d1d"/></linearGradient>
+ <filter id="shadow"><feGaussianBlur stdDeviation="12"/></filter>
+ <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="10" y="10" width="1180" height="410" rx="30" fill="url(#bg)" stroke="#2b0a0a"/>
+<g opacity=".35" filter="url(#shadow)" fill="#ff3b30"><ellipse cx="310" cy="350" rx="230" ry="24"/><ellipse cx="870" cy="350" rx="230" ry="24"/></g>
+<g fill="none" stroke="#ff3b30" opacity=".18"><path d="M80 360L600 80l520 280"/><path d="M140 390L600 130l460 260"/></g>
+<g font-family="Arial,sans-serif" fill="#fff">
+ <text x="600" y="55" text-anchor="middle" font-size="22" font-weight="700" letter-spacing="4">GITHUB ACTIVITY</text>
+ <text x="600" y="78" text-anchor="middle" font-size="11" fill="#ff6b66" letter-spacing="2">BUILD • COMMIT • SHIP</text>
+</g>
+<g>
+ <rect x="95" y="105" width="620" height="205" rx="18" fill="#0b0b0b" stroke="url(#edge)" stroke-width="2" transform="rotate(-4 405 205)">
+  <animateTransform attributeName="transform" type="rotate" values="-4 405 205;-2 405 205;-4 405 205" dur="6s" repeatCount="indefinite"/>
+ </rect>
+ <image href="https://github-readme-stats.vercel.app/api?username=Abhijitbot277&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;title_color=ff3b30&amp;icon_color=ff3b30&amp;text_color=ffffff&amp;bg_color=0b0b0b" x="112" y="119" width="586" height="177" preserveAspectRatio="xMidYMid meet" transform="rotate(-4 405 205)">
+  <animateTransform attributeName="transform" type="rotate" values="-4 405 205;-2 405 205;-4 405 205" dur="6s" repeatCount="indefinite"/>
+ </image>
+</g>
+<g>
+ <rect x="750" y="115" width="350" height="175" rx="18" fill="#0b0b0b" stroke="url(#edge)" stroke-width="2" transform="rotate(5 925 202)">
+  <animateTransform attributeName="transform" type="rotate" values="5 925 202;3 925 202;5 925 202" dur="5s" repeatCount="indefinite"/>
+ </rect>
+ <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijitbot277&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;title_color=ff3b30&amp;text_color=ffffff&amp;bg_color=0b0b0b" x="770" y="130" width="310" height="145" preserveAspectRatio="xMidYMid meet" transform="rotate(5 925 202)">
+  <animateTransform attributeName="transform" type="rotate" values="5 925 202;3 925 202;5 925 202" dur="5s" repeatCount="indefinite"/>
+ </image>
+</g>
+<g fill="#ff3b30" filter="url(#glow)">
+ <circle cx="70" cy="120" r="4"><animate attributeName="cy" values="120;95;120" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="1130" cy="315" r="5"><animate attributeName="cy" values="315;285;315" dur="4s" repeatCount="indefinite"/></circle>
+ <circle cx="720" cy="345" r="3"><animate attributeName="cy" values="345;325;345" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+<text x="600" y="390" text-anchor="middle" fill="#777" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">FLOATING 3D • RED VECTOR UI</text>
+</svg>

@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 650" width="1400" height="650" role="img" aria-label="Animated atomic GitHub profile dashboard in black and red">
+<defs>
+  <radialGradient id="space" cx="50%" cy="50%" r="75%">
+    <stop offset="0" stop-color="#180707"/><stop offset=".45" stop-color="#090909"/><stop offset="1" stop-color="#020202"/>
+  </radialGradient>
+  <radialGradient id="core" cx="35%" cy="30%" r="75%">
+    <stop offset="0" stop-color="#ffffff"/><stop offset=".18" stop-color="#ff6b66"/><stop offset=".5" stop-color="#dc2626"/><stop offset="1" stop-color="#260303"/>
+  </radialGradient>
+  <linearGradient id="redEdge" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#ff5a54"/><stop offset=".5" stop-color="#dc2626"/><stop offset="1" stop-color="#650b0b"/>
+  </linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+    <stop stop-color="#171717" stop-opacity=".92"/><stop offset="1" stop-color="#050505" stop-opacity=".96"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <filter id="cardShadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#000" flood-opacity=".75"/></filter>
+</defs>
+
+<rect width="1400" height="650" rx="34" fill="url(#space)"/>
+<g opacity=".65" fill="#ff3b30" filter="url(#soft)">
+  <circle cx="190" cy="150" r="40"/><circle cx="1180" cy="180" r="55"/><circle cx="1210" cy="500" r="42"/>
+</g>
+
+<!-- stars / particles -->
+<g fill="#ff3b30">
+  <circle cx="70" cy="90" r="2"/><circle cx="260" cy="55" r="3"/><circle cx="1080" cy="80" r="2"/>
+  <circle cx="1330" cy="120" r="2"/><circle cx="1250" cy="590" r="3"/><circle cx="420" cy="575" r="2"/>
+  <circle cx="90" cy="520" r="3"/><circle cx="1020" cy="560" r="2"/><circle cx="610" cy="70" r="2"/>
+</g>
+
+<!-- header -->
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="55" y="65" fill="#fff" font-size="31" font-weight="700">Abhijitbot<tspan fill="#ff3b30">277</tspan></text>
+  <text x="57" y="94" fill="#9a9a9a" font-size="13" letter-spacing="5">BUILD  /  LEARN  /  IMPROVE</text>
+  <text x="55" y="142" fill="#cfcfcf" font-size="16">Turning ideas into</text>
+  <text x="55" y="165" fill="#cfcfcf" font-size="16">real-world projects.</text>
+  <text x="55" y="190" fill="#ff3b30" font-size="15">One commit at a time.</text>
+</g>
+
+<!-- orbital system -->
+<g fill="none" stroke-linecap="round">
+  <ellipse cx="720" cy="355" rx="455" ry="150" stroke="#ff3b30" stroke-width="2" opacity=".42" transform="rotate(-14 720 355)"/>
+  <ellipse cx="720" cy="355" rx="405" ry="205" stroke="#fff" stroke-width="1.4" opacity=".22" transform="rotate(25 720 355)"/>
+  <ellipse cx="720" cy="355" rx="350" ry="260" stroke="#ff3b30" stroke-width="2" opacity=".35" transform="rotate(-48 720 355)"/>
+  <ellipse cx="720" cy="355" rx="290" ry="120" stroke="#ff3b30" stroke-width="1" opacity=".25" transform="rotate(72 720 355)"/>
+</g>
+
+<!-- animated orbital sweep -->
+<g fill="none" stroke="#ff3b30" stroke-width="5" stroke-linecap="round" filter="url(#glow)">
+  <path d="M315 385 C450 130 850 85 1125 300" stroke-dasharray="18 900">
+    <animate attributeName="stroke-dashoffset" values="0;-918" dur="5s" repeatCount="indefinite"/>
+  </path>
+</g>
+
+<!-- orbiting electrons -->
+<g fill="#ff3b30" filter="url(#glow)">
+  <circle cx="0" cy="0" r="11">
+    <animateMotion dur="7s" repeatCount="indefinite" path="M350,300 C520,105 930,110 1090,350 C930,590 500,600 350,300"/>
+  </circle>
+  <circle cx="0" cy="0" r="8">
+    <animateMotion dur="5.5s" repeatCount="indefinite" path="M1080,280 C850,95 520,170 390,390 C560,555 900,550 1080,280"/>
+  </circle>
+  <circle cx="0" cy="0" r="6" fill="#fff">
+    <animateMotion dur="8.5s" repeatCount="indefinite" path="M430,480 C600,180 920,165 1030,420 C850,575 570,570 430,480"/>
+  </circle>
+</g>
+
+<!-- core -->
+<g transform="translate(720 355)" filter="url(#cardShadow)">
+  <circle r="108" fill="#050505" stroke="#4b0a0a" stroke-width="18"/>
+  <circle r="91" fill="url(#core)" stroke="#ff3b30" stroke-width="3">
+    <animate attributeName="r" values="91;96;91" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="72" fill="#080808" opacity=".88"/>
+  <text x="0" y="18" text-anchor="middle" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700">GH</text>
+  <text x="0" y="50" text-anchor="middle" fill="#ff6b66" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="4">PROFILE</text>
+</g>
+
+<!-- left activity card -->
+<g transform="translate(75 265) rotate(-5 250 130)" filter="url(#cardShadow)">
+  <rect width="500" height="245" rx="22" fill="url(#glass)" stroke="url(#redEdge)" stroke-width="2"/>
+  <text x="25" y="42" fill="#fff" font-family="Arial" font-size="18" font-weight="700">GitHub Activity</text>
+  <text x="25" y="64" fill="#ff3b30" font-family="Arial" font-size="11">LIVE PROFILE DATA</text>
+  <g transform="translate(25 88)">
+    <rect width="450" height="65" rx="9" fill="#090909" stroke="#2b2b2b"/>
+    <g fill="#5d1111">
+      <rect x="12" y="12" width="10" height="10"/><rect x="28" y="12" width="10" height="10"/><rect x="44" y="12" width="10" height="10"/>
+      <rect x="60" y="12" width="10" height="10"/><rect x="76" y="12" width="10" height="10"/><rect x="92" y="12" width="10" height="10"/>
+      <rect x="108" y="12" width="10" height="10"/><rect x="124" y="12" width="10" height="10"/><rect x="140" y="12" width="10" height="10"/>
+      <rect x="156" y="12" width="10" height="10"/><rect x="172" y="12" width="10" height="10"/><rect x="188" y="12" width="10" height="10"/>
+      <rect x="204" y="12" width="10" height="10"/><rect x="220" y="12" width="10" height="10"/><rect x="236" y="12" width="10" height="10"/>
+      <rect x="252" y="12" width="10" height="10"/><rect x="268" y="12" width="10" height="10"/><rect x="284" y="12" width="10" height="10"/>
+      <rect x="300" y="12" width="10" height="10"/><rect x="316" y="12" width="10" height="10"/><rect x="332" y="12" width="10" height="10"/>
+      <rect x="348" y="12" width="10" height="10"/><rect x="364" y="12" width="10" height="10"/><rect x="380" y="12" width="10" height="10"/>
+      <rect x="396" y="12" width="10" height="10"/><rect x="412" y="12" width="10" height="10"/>
+    </g>
+    <g fill="#ff3b30">
+      <rect x="28" y="30" width="10" height="10"/><rect x="76" y="30" width="10" height="10"/><rect x="124" y="30" width="10" height="10"/>
+      <rect x="172" y="30" width="10" height="10"/><rect x="220" y="30" width="10" height="10"/><rect x="268" y="30" width="10" height="10"/>
+      <rect x="316" y="30" width="10" height="10"/><rect x="364" y="30" width="10" height="10"/>
+      <rect x="44" y="48" width="10" height="10"/><rect x="92" y="48" width="10" height="10"/><rect x="156" y="48" width="10" height="10"/>
+      <rect x="204" y="48" width="10" height="10"/><rect x="252" y="48" width="10" height="10"/><rect x="332" y="48" width="10" height="10"/>
+      <rect x="396" y="48" width="10" height="10"/>
+    </g>
+  </g>
+  <text x="25" y="184" fill="#9b9b9b" font-family="Arial" font-size="11">Activity is rendered from your GitHub profile</text>
+  <text x="25" y="210" fill="#fff" font-family="Arial" font-size="12">Commits  ·  Repositories  ·  Contributions</text>
+</g>
+
+<!-- right languages card -->
+<g transform="translate(990 210) rotate(5 180 120)" filter="url(#cardShadow)">
+  <rect width="335" height="245" rx="22" fill="url(#glass)" stroke="url(#redEdge)" stroke-width="2"/>
+  <text x="24" y="40" fill="#fff" font-family="Arial" font-size="18" font-weight="700">Top Languages</text>
+  <text x="24" y="62" fill="#ff3b30" font-family="Arial" font-size="11">DYNAMIC GITHUB DATA</text>
+  <g font-family="Arial" font-size="12">
+    <text x="25" y="98" fill="#ddd">TypeScript</text><rect x="25" y="107" width="265" height="7" rx="4" fill="#272727"/><rect x="25" y="107" width="175" height="7" rx="4" fill="#ff3b30"/>
+    <text x="25" y="135" fill="#ddd">JavaScript</text><rect x="25" y="144" width="265" height="7" rx="4" fill="#272727"/><rect x="25" y="144" width="135" height="7" rx="4" fill="#dc2626"/>
+    <text x="25" y="172" fill="#ddd">Python</text><rect x="25" y="181" width="265" height="7" rx="4" fill="#272727"/><rect x="25" y="181" width="105" height="7" rx="4" fill="#ff6b66"/>
+    <text x="25" y="209" fill="#ddd">Web / UI</text><rect x="25" y="218" width="265" height="7" rx="4" fill="#272727"/><rect x="25" y="218" width="82" height="7" rx="4" fill="#7f1d1d"/>
+  </g>
+</g>
+
+<!-- lower project cards -->
+<g transform="translate(390 505)" filter="url(#cardShadow)">
+  <rect width="660" height="92" rx="18" fill="#080808" stroke="#3b0b0b"/>
+  <text x="24" y="30" fill="#ff3b30" font-family="Arial" font-size="11" letter-spacing="3">CURRENT BUILD</text>
+  <text x="24" y="58" fill="#fff" font-family="Arial" font-size="17" font-weight="700">ApexStore  ·  AIR SENTINAL  ·  Local AI</text>
+  <text x="24" y="79" fill="#999" font-family="Arial" font-size="11">Web • AI • Automation • Hardware • UI/UX</text>
+  <circle cx="625" cy="45" r="8" fill="#ff3b30" filter="url(#glow)">
+    <animate attributeName="r" values="7;11;7" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<!-- subtle floating motion -->
+<g opacity=".9">
+  <circle cx="600" cy="180" r="4" fill="#ff3b30"><animate attributeName="cy" values="180;160;180" dur="3s" repeatCount="indefinite"/></circle>
+  <circle cx="850" cy="535" r="5" fill="#ff3b30"><animate attributeName="cy" values="535;510;535" dur="4s" repeatCount="indefinite"/></circle>
+  <circle cx="300" cy="235" r="3" fill="#fff"><animate attributeName="cy" values="235;215;235" dur="2.4s" repeatCount="indefinite"/></circle>
+</g>
+
+<text x="1345" y="625" text-anchor="end" fill="#777" font-family="Arial" font-size="10" letter-spacing="3">ATOMIC • 3D • ANIMATED</text>
+</svg>

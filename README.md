@@ -91,7 +91,7 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 ## GitHub Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-3d.webp" width="100%" alt="GitHub Activity"/>
+<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-hq.svg" width="100%" alt="GitHub Activity"/>
 </p>
 
 ## Current Focus

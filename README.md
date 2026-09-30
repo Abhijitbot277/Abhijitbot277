@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-Abhijitbot277-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://abhijitbot277.github.io/apexstore/"><img src="https://img.shields.io/badge/Portfolio-ApexStore-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Project-Deep%20Packet-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet"/></a>
 </p>
 
 ---
@@ -35,12 +35,12 @@ I enjoy building practical projects across **web development, AI, automation, UI
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 ApexStore
-Marketplace-style web project focused on product discovery, shopping flows and responsive UI.
+### 🔍 Deep Packet
+C++17 Deep Packet Inspection engine for PCAP analysis, traffic classification, TLS SNI inspection and rule-based filtering.
 
-**Stack:** React · TypeScript · Tailwind CSS · Vite
+**Stack:** C++17 · PCAP · Multithreading · Network Analysis
 
-<a href="https://github.com/Abhijitbot277/apexstore">Source Code</a> · <a href="https://abhijitbot277.github.io/apexstore/">Live Demo</a>
+<a href="https://github.com/Abhijitbot277/Deep_Packet">Source Code</a>
 
 </td>
 <td width="50%" valign="top">
@@ -106,7 +106,7 @@ Interactive portfolio experiment focused on immersive visuals, motion and game-l
 
 <p align="center">
 <a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://abhijitbot277.github.io/apexstore/"><img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Project-Deep%20Packet-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet"/></a>
 </p>
 
 <p align="center"><i>Building, learning, experimenting — one project at a time.</i></p>

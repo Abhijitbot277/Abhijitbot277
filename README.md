@@ -17,66 +17,17 @@
 <img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/atomic-profile-3d.svg" width="100%" alt="Animated atomic 3D GitHub profile artwork"/>
 </p>
 
-## About Me
+## About Me & Featured Projects
 
-I'm **Abhijit Singha**, a B.Tech student in **Electrical & Electronics Engineering (EEE)** at **Swami Vivekananda Institute of Science and Technology (SVIST)**.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/about-floating-projects.svg" width="100%" alt="Animated profile illustration with floating technology labels and featured projects"/>
+</p>
 
-I enjoy building practical projects across **web development, AI, automation, UI/UX and hardware-oriented systems**. My current focus is improving my programming fundamentals while turning project ideas into usable prototypes.
-
-- 🎓 B.Tech — Electrical & Electronics Engineering
-- 📍 Kolkata, West Bengal, India
-- 💻 Interested in Web Development, AI, Automation & Product Building
-- 🛠️ Python fundamentals · Canva · MS Office · Modern web tooling
-- 🚀 Building and refining personal projects
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Deep Packet
-C++17 Deep Packet Inspection engine for PCAP analysis, traffic classification, TLS SNI inspection and rule-based filtering.
-
-**Stack:** C++17 · PCAP · Multithreading · Network Analysis
-
-<a href="https://github.com/Abhijitbot277/Deep_Packet">Source Code</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🦺 AIR SENTINAL
-Safety-focused concept for a passive colorimetric **H₂S dosimeter wristband** with AI-assisted reading, worker identification, alerts and dashboard connectivity.
-
-**Focus:** Safety · AI · IoT · Automation
-
-<a href="https://github.com/Abhijitbot277/air-sentinal">Source Code</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Local AI Chatbot
-Exploration into a local AI assistant for coding, document workflows and practical problem solving.
-
-**Focus:** AI Agents · Local Tools · Developer Automation
-
-<a href="https://github.com/Abhijitbot277/chatbot">Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Open-World Portfolio
-Interactive portfolio experiment focused on immersive visuals, motion and game-like presentation.
-
-**Focus:** UI/UX · Animation · Interactive Web
-
-<a href="https://github.com/Abhijitbot277/abhijit-open-world-portfolio">Repository</a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Abhijitbot277/Deep_Packet">Deep Packet — Source Code</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/Abhijitbot277/air-sentinal">AIR SENTINAL — Project</a>
+</p>
 
 ## Tech & Skills
 

@@ -1,65 +1,95 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:a855f7&height=180&section=header&text=Abhijit%20Singha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Abhijit Singha header"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=700&height=45&lines=Hi%2C+I'm+Abhijit+Singha+%F0%9F%91%8B;EEE+Student+%7C+Developer;Building+Web%2C+AI+%26+Hardware+Projects;Turning+Ideas+Into+Working+Projects+%E2%9A%A1" alt="Typing introduction"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,55:14213D,100:5B4BDB&height=190&section=header&text=Abhijit%20Singha&fontSize=44&fontColor=F8FAFC&fontAlignY=38&animation=fadeIn" width="100%" alt="Abhijit Singha profile banner"/>
 
-<p align="center">
-<a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-Abhijitbot277-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Project-Deep%20Packet-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=67DFFF&center=true&vCenter=true&width=720&height=42&lines=EEE+Student+%7C+Technology+Enthusiast;Software+%C2%B7+AI+Fundamentals+%C2%B7+Network+Security;Learning+by+building+real+projects" alt="Animated introduction"/>
+
+<a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-View%20Profile-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
+<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Featured%20Project-Deep%20Packet-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet project"/></a>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/atomic-profile-3d.svg" width="100%" alt="Animated atomic 3D GitHub profile artwork"/>
-</p>
+## About
 
-## About Me & Featured Projects
+I'm **Abhijit Singha**, a B.Tech student in **Electrical & Electronics Engineering (EEE)** at Swami Vivekananda Institute of Science and Technology (SVIST), under MAKAUT.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/about-floating-projects.svg" width="100%" alt="Animated profile illustration with floating technology labels and featured projects"/>
-</p>
+I enjoy building practical projects at the intersection of software, AI fundamentals, automation, UI/UX and engineering. I focus on learning through hands-on work, improving my fundamentals and turning ideas into useful prototypes.
 
-<p align="center">
-  <a href="https://github.com/Abhijitbot277/Deep_Packet">Deep Packet — Source Code</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Abhijitbot277/air-sentinal">AIR SENTINAL — Project</a>
-</p>
+<div align="center">
 
-## Tech & Skills
+<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/about-floating-projects.svg" width="100%" alt="Animated illustration with floating technology labels and featured project cards"/>
 
-### Programming & Web
-<p><img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,tailwind,vite&theme=dark" alt="Programming and web skills"/></p>
+</div>
 
-### Tools & Design
-<p><img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" alt="Tools and design skills"/></p>
+## Featured Projects
 
-**Also:** MS Word · Basic Excel · Video Editing · Data Entry · Communication · Public Speaking · Canva
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## GitHub Activity
+### 🔎 Deep Packet
+**C++17 · Network Security**
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Abhijitbot277/Abhijitbot277/main/assets/github-activity-hq.svg" width="100%" alt="GitHub Activity"/>
-</p>
+Deep Packet Inspection engine for PCAP analysis, traffic classification, TLS SNI and HTTP Host extraction, flow tracking and rule-based filtering.
+
+**Focus:** PCAP · Multithreading · Network Analysis
+
+[**Explore repository →**](https://github.com/Abhijitbot277/Deep_Packet)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦺 AIR SENTINAL
+**Industrial Safety · AI + IoT Concept**
+
+A safety-focused H₂S dosimeter wristband concept with AI-assisted reading, worker identification, alerts and dashboard connectivity.
+
+**Focus:** Worker Safety · Sensing · Automation
+
+[**Explore project →**](https://github.com/Abhijitbot277)
+
+</td>
+</tr>
+</table>
+
+## Skills & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,figma,vscode&theme=dark" alt="Python and development tools"/>
+
+</div>
+
+| Area | Skills |
+|:--|:--|
+| Programming | Python fundamentals |
+| AI | AI fundamentals and exploration |
+| Development tools | Git, GitHub, VS Code |
+| Design & content | UI/UX, Canva, video editing |
+| Productivity | MS Word, Excel |
+| Professional | Communication, public speaking |
 
 ## Current Focus
 
-- Building stronger programming fundamentals
-- Developing practical web applications
-- Exploring AI agents and automation
+- Strengthening programming and problem-solving fundamentals
+- Building practical software and engineering projects
+- Exploring AI-assisted systems and automation
 - Improving UI/UX and interactive experiences
-- Learning how hardware and software can work together
+- Participating in project collaborations and hackathons
 
-## Let's Connect
+## Connect
 
-<p align="center">
-<a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/></a>
-<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Project-Deep%20Packet-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet"/></a>
-</p>
+<div align="center">
 
-<p align="center"><i>Building, learning, experimenting — one project at a time.</i></p>
+<a href="https://github.com/Abhijitbot277"><img src="https://img.shields.io/badge/GitHub-Abhijitbot277-172033?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://github.com/Abhijitbot277/Deep_Packet"><img src="https://img.shields.io/badge/Deep%20Packet-Source%20Code-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Deep Packet source code"/></a>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:050505&height=100&section=footer" width="100%" alt="Footer"/></p>
+<br/>
+
+*Build · Learn · Experiment · Repeat*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B4BDB,100:070B16&height=90&section=footer" width="100%" alt="Decorative footer"/>
+
+</div>
